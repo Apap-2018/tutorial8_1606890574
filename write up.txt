@@ -1,0 +1,11 @@
+SYafiq abdillah U 
+
+1. fungsi  BCryptPasswordEncoder adalah untuk 
+mengenkripsi password miliki user menjadi kode kode yang 
+rumit sehingga password yang disimpan di DB bukan password
+asli, namun password yang sudah dienkripsi 
+
+2. fungsi baris tersebut adalah 
+menyimpan list otoritas yang dimiliki suatu User,
+otoritas yang dimiliki suatu user tergantung pada role 
+user tersebut 
